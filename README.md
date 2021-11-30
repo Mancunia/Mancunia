@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mancunia
 - 👀 I’m interested in web development and mobile apps
-- 🌱 I’m currently learning nodejs, mongoDB and later angular
+- 🌱 I’m currently learning TS and then angular
 - 💞️ I’m looking to collaborate on any e commerce or any big data related projects 
 - 📫 How to reach me email:akwasi.osei.adubofour@gmail.com / mancuniamoe@gmail.com
 
